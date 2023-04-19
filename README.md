@@ -1,4 +1,4 @@
- Projeto desenvolvido no curso da Formação Front End da Platafroma Alura: Praticando HTML e CSS: ALURA PLUS**
+# Projeto desenvolvido no curso da Formação Front End da Platafroma Alura: Praticando HTML e CSS: ALURA PLUS
 
 Tecnologias:
 
